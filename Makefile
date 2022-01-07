@@ -1,5 +1,5 @@
-#CFLAGS=-std=c11 -g -static
-CFLAGS=-std=c11 -g
+CFLAGS=-std=c11 -g -static
+#CFLAGS=-std=c11 -g
 
 9cc: 9cc.c
 
